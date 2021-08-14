@@ -1,3 +1,4 @@
+
 const user = {
   name: "Liza",
   city: "New York",
@@ -8,5 +9,8 @@ const user = {
     linkedin: "https://www.linkedin.com/in/liza/",
   },
 };
+
+
+
 
 export default user;
